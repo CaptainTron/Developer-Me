@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(26,25,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+#Codeofconduct{
+    color: red;
+    text-shadow: 2px 2px 9px red;
+    padding: 3vh;
+    text-align: center;
+    font-size: 4vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.quotes{
+    padding: 3vh;
+    font-size: 3vh;
+    color: yellow;
+}
+.Vaibhav_Yadav{
+    padding: 4vh;
+    color: white;
+    background-color: rebeccapurple;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
+.from{
+    display: block;
+}
